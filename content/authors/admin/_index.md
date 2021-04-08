@@ -21,13 +21,13 @@ organizations:
 bio: My research interests include materials modelling and quantum chemistry.
 
 interests:
+- Metal Oxide Surfaces
 - Density Functional Theory
-- Quantum Monte Carlo
-- Quantum Embedding
+- Quantum Chemistry
 
 education:
   courses:
-  - course: PhD in Theoretical Chemistry
+  - course: PhD in Chemistry
     institution: University of Cambridge
     year: 2024 (Expected)
   - course: MEng in Materials Science
